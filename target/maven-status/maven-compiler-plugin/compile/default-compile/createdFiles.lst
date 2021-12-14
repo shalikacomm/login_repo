@@ -1,0 +1,13 @@
+com/fin/auth/web/UserController.class
+com/fin/auth/WebSecurityConfig.class
+com/fin/auth/service/SecurityServiceImpl.class
+com/fin/auth/model/Role.class
+com/fin/auth/service/UserService.class
+com/fin/auth/service/UserServiceImpl.class
+com/fin/auth/WebApplication.class
+com/fin/auth/service/UserDetailsServiceImpl.class
+com/fin/auth/service/SecurityService.class
+com/fin/auth/repository/UserRepository.class
+com/fin/auth/validator/UserValidator.class
+com/fin/auth/model/User.class
+com/fin/auth/repository/RoleRepository.class
